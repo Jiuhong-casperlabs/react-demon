@@ -7,6 +7,7 @@ npm i
 ### start backend
 
 cd server
+
 npm start
 
 ### start frontend
